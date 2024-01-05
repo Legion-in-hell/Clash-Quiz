@@ -1,17 +1,12 @@
 # Table of Contents
 
-- [English](#english)
-  - [Clash-Quiz](#clash-quiz)
-  - [Installation](#installation)
-  - [How to Play](#how-to-play)
-  - [Contributing](#contributing)
-  - [License](#license)
-- [Français](#français)
-  - [Clash-Quiz](#clash-quiz-1)
-  - [Installation](#installation-1)
-  - [Comment jouer](#comment-jouer)
-  - [Contribuer](#contribuer)
-  - [Licence](#licence)
+| English                           | Français                            |
+| --------------------------------- | ----------------------------------- |
+| **[Clash-Quiz](#clash-quiz)**     | **[Clash-Quiz](#clash-quiz-1)**     |
+| **[Installation](#installation)** | **[Installation](#installation-1)** |
+| **[How to Play](#how-to-play)**   | **[Comment jouer](#comment-jouer)** |
+| **[Contributing](#contributing)** | **[Contribuer](#contribuer)**       |
+| **[License](#license)**           | **[Licence](#licence)**             |
 
 # English
 
